@@ -9,9 +9,9 @@
 ## Experience
 
 ### Ross Dress for Less, June 2011-present
--[X]Provided exceptional customer service
--[X]Named employee of the month in April 2012 and August 2013
--[X]Counted and verified tills, insured cashier accuracy, reported errors
+-Provided exceptional customer service <break>
+-[X]Named employee of the month in April 2012 and August 2013<break>
+-[X]Counted and verified tills, insured cashier accuracy, reported errors<break>
 -[X]xTrained new employees, assured confidence and knowledge of duties
 -[X]Supervised cashiers, guaranteed employees meet goals of fast and friendly transactions while performing daily tasks
 
